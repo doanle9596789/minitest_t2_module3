@@ -13,7 +13,7 @@
 <body>
 <h1>Delete Product</h1>
 <p>
-  <a href="/customers">Back to product list</a>
+  <a href="/products">Back to product list</a>
 </p>
 <form method="post">
   <h3>Are you sure?</h3>
@@ -47,7 +47,7 @@
       </tr>
       <tr>
         <td><input type="submit" value="Delete Product"></td>
-        <td><a href="/customers">Back to Product list</a></td>
+        <td><a href="/products">Back to Product list</a></td>
       </tr>
     </table>
   </fieldset>
